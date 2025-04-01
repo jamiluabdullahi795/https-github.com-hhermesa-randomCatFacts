@@ -1,4 +1,4 @@
-//GitHub API Library
+//GitHub APIvxc Library
 const { Octokit } = require('@octokit/rest');
 
 //Insert your GitHub tokens here in next format ['token1', 'token2', 'token3']
